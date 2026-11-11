@@ -2,7 +2,7 @@
 
 Put the regular font file from `Hurmit.zip` in this folder and name it:
 
-`HurmitNerdFont-Regular.ttf`
+`HurmitNerdFont-Regular.otf`
 
 The site loads that file from `assets/css/hurmit-font.css`. If the archive only
 contains a different format or filename, update the `src` URL and format in
