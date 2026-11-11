@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Hurmit Nerd Font";
-  src: url("../fonts/hurmit/HurmitNerdFont-Regular.ttf") format("truetype");
+  src: url("../fonts/hurmit/HurmitNerdFont-Regular.otf") format("opentype");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
