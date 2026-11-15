@@ -2,13 +2,12 @@
 title: About
 icon: fas fa-info-circle
 order: 4
-media_subpath: '/assets/img/about'
 ---
 
 ## Hello, I'm [Your Name]
 
 <!-- PHOTO 1: Headshot or a casual portrait. Square or portrait crop works best. Save as /assets/img/about/profile.jpg -->
-![Portrait of [Your Name]](profile.jpg){: width="400" height="400" .w-50 .right .shadow .rounded-10 }
+![Portrait of [Your Name]]({{ '/assets/img/about/profile.jpg' | absolute_url }}){: width="400" height="400" .w-50 .right .shadow .rounded-10 }
 
 I'm a [job title / field] based in [City, State]. I like building things, learning how they work, and explaining them to other people. This site is where I keep notes on what I'm working on and thinking about.
 
@@ -30,7 +29,7 @@ I'm a [job title / field] based in [City, State]. I like building things, learni
 I work in [industry / field], mostly on [type of problem or project]. The parts I enjoy most are [the thing that gives you energy], and the parts I'm still getting better at are [an honest weak spot].
 
 <!-- PHOTO 2: Your desk, workspace, a project screenshot, or you at work. Wide (landscape) crop. Save as /assets/img/about/work.jpg -->
-![[Describe the image: e.g. my desk setup]](work.jpg){: width="972" height="589" .shadow .rounded-10 }
+![[Describe the image: e.g. my desk setup]]({{ '/assets/img/about/work.jpg' | absolute_url }}){: width="972" height="589" .shadow .rounded-10 }
 _[Caption: e.g. Where most of the work happens]_
 
 ### What I'm Interested In
@@ -68,8 +67,8 @@ I believe a person is more than their job title, so here is the rest of me.
 : [Include at least one thing you're mediocre at but enjoy anyway.]
 
 <!-- PHOTOS 3 and 4: Two hobby shots, shown side by side as a pair. Similar sizes look best. Save as /assets/img/about/hobby-1.jpg and hobby-2.jpg -->
-![[Hobby one in action]](hobby-1.jpg){: width="600" height="400" .w-50 .left .shadow .rounded-10 }
-![[Hobby two in action]](hobby-2.jpg){: width="600" height="400" .w-50 .right .shadow .rounded-10 }
+![[Hobby one in action]]({{ '/assets/img/about/hobby-1.jpg' | absolute_url }}){: width="600" height="400" .w-50 .left .shadow .rounded-10 }
+![[Hobby two in action]]({{ '/assets/img/about/hobby-2.jpg' | absolute_url }}){: width="600" height="400" .w-50 .right .shadow .rounded-10 }
 _[Caption: e.g. Evidence that I do, in fact, have hobbies]_
 
 ### Things I'm Bad At (But Keep Doing)
@@ -108,14 +107,14 @@ I like traveling slowly, eating locally, and getting a little lost on purpose.
 | [Place three]  | [Year]   | [A meal, a person, or a wrong turn]     |
 
 <!-- PHOTO 5: Your favorite travel photo, wide crop. Save as /assets/img/about/travel-1.jpg -->
-![[Describe the place]](travel-1.jpg){: width="972" height="589" .shadow .rounded-10 }
+![[Describe the place]]({{ '/assets/img/about/travel-1.jpg' | absolute_url }}){: width="972" height="589" .shadow .rounded-10 }
 _[Caption: place, year, and one honest sentence about it]_
 
 <!-- PHOTOS 6 and 7: Float a smaller photo beside a short paragraph about a trip. Swap .left for .right to flip sides. Save as /assets/img/about/travel-2.jpg and travel-3.jpg -->
-![[Describe the place]](travel-2.jpg){: width="600" height="400" .w-50 .left .shadow .rounded-10 }
+![[Describe the place]]({{ '/assets/img/about/travel-2.jpg' | absolute_url }}){: width="600" height="400" .w-50 .left .shadow .rounded-10 }
 [Write two or three sentences about this trip: what you did, what went wrong, what you'd do differently. Text wraps around the image on the right.]
 
-![[Describe the place]](travel-3.jpg){: width="600" height="400" .w-50 .right .shadow .rounded-10 }
+![[Describe the place]]({{ '/assets/img/about/travel-3.jpg' | absolute_url }}){: width="600" height="400" .w-50 .right .shadow .rounded-10 }
 [Another short story from a different trip. This one floats the image to the right instead.]
 
 ### Where To Next
