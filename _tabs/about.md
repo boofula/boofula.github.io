@@ -13,7 +13,7 @@ I'm a graduate student in Mathematics based in Chicago, IL. I like building thin
 
 <div style="clear: both;"></div>
 
-> The short version: If I had to choose a fantasy species to represent my personality, it would probably be the elves from The Lord of The Rings.
+> The short version: 
 {: .prompt-tip }
 
 ## Quick Facts
