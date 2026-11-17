@@ -10,11 +10,11 @@ order: 4
 ![Portrait of [Your Name]]({{ '/assets/img/about/profile.jpg' | absolute_url }}){: width="400" height="400" .w-50 .right .shadow .rounded-10 }
 
 I'm a [job title / field] based in [City, State]. I like building things, learning how they work, and explaining them to other people. This site is where I keep notes on what I'm working on and thinking about.
-
-<div style="clear: both;"></div>
+{: .clearfix }
 
 > The short version: curious, a little stubborn, happiest when I'm making something useful.
 {: .prompt-tip }
+
 
 ## Quick Facts
 
