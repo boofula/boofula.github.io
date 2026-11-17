@@ -4,12 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Hello, I'm [Your Name]
+## Hello, I'm Will Bales
 
 <!-- PHOTO 1: Headshot or casual portrait. Square or portrait crop. Save as /assets/img/about/profile.jpg -->
 ![Portrait of Your Name]({{ '/assets/img/about/profile.jpg' | absolute_url }}){: width="400" height="400" .w-50 .right .shadow .rounded-10 }
 
-I'm a [job title / field] based in [City, State]. I like building things, learning how they work, and explaining them to other people. This site is where I keep notes on what I'm working on and thinking about.
+I'm a graduate student in Mathematics based in Chicago, IL. I like building things, learning how they work, and explaining them to other people. This site is where I keep notes on what I'm working on and thinking about.
 
 <div style="clear: both;"></div>
 
@@ -20,11 +20,11 @@ I'm a [job title / field] based in [City, State]. I like building things, learni
 
 | Category   | Details                               |
 | :--------- | :------------------------------------ |
-| Based in   | [City, State]                         |
-| Currently  | [Role] at [Company / Org / Studio]    |
+| Based in   | [Chicago, IL]                         |
+| Currently  | [Graduate Student and Course Assistant] at [Loyola University Chicago]    |
 | Previously | [Past role or school]                 |
-| Languages  | English, [other language, badly]      |
-| Fuel       | [Coffee / tea / something suspicious] |
+| Languages  | English,      |
+| Fuel       | [Black coffee / Redbull / Lentil Soup] |
 
 ## Work
 
