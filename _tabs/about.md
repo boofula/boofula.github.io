@@ -13,7 +13,6 @@ I'm a [job title / field] based in [City, State]. I like building things, learni
 {: .clearfix }
 
 > The short version: curious, a little stubborn, happiest when I'm making something useful.
-{: .prompt-tip }
 
 
 ## Quick Facts
